@@ -1,6 +1,6 @@
 # Neuromedia OCR — браузерное распознавание текста — Français
 
-[Русский](README.ru.md) | [English](README.en.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+[Русский](README.ru.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [עברית](README.he.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [العربية](README.ar.md) · [Українська](README.uk.md) · [Română](README.ro.md)
 
 ## Finalité et usage pratique
 
@@ -16,7 +16,7 @@ Le projet est destiné aux équipes qui traitent leurs propres données ou des c
 
 Commencez avec un jeu de test représentatif et limité. Consignez les paramètres, mesurez la qualité sur la tâche réelle et définissez à l’avance les cas nécessitant une revue manuelle. N’affirmez ni précision, ni formats pris en charge, ni vitesse, ni compatibilité, ni conformité au-delà de ce que vos essais et la documentation amont vérifient. En production, il faut généralement isolation, surveillance des erreurs, limites de ressources, transfert sécurisé, versionnage de configuration, journal d’audit et plan de retour arrière.
 
-## Termes de recherche pertinents
+## Flux pratiques et intégrations
 
 Les termes adaptés sont agents IA, bots IA, automatisation du traitement des données, intégration API, OCR, vision par ordinateur, flux sécurisés, confidentialité, contrôle qualité, processus documentaires, pipelines multimodaux et mise en œuvre de l’intelligence artificielle. Ils décrivent des contextes possibles, sans garantir un résultat, une conformité juridique ou un service clé en main.
 

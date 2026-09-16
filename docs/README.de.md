@@ -1,6 +1,6 @@
 # Neuromedia OCR — браузерное распознавание текста — Deutsch
 
-[Русский](README.ru.md) | [English](README.en.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+[Русский](README.ru.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [עברית](README.he.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [العربية](README.ar.md) · [Українська](README.uk.md) · [Română](README.ro.md)
 
 ## Zweck und praktischer Einsatz
 
@@ -16,7 +16,7 @@ Das Projekt ist für Teams bestimmt, die eigene Daten oder Material mit einer re
 
 Beginnen Sie mit einer kleinen repräsentativen Testmenge. Dokumentieren Sie Parameter, messen Sie Qualität an der tatsächlichen Zielaufgabe und bestimmen Sie vorab Fälle für eine manuelle Prüfung. Behaupten Sie keine Genauigkeit, Formatunterstützung, Geschwindigkeit, Kompatibilität oder Compliance, die nicht durch aktuelle Tests und die Upstream-Dokumentation belegt ist. Für Produktionsabläufe sind typischerweise Isolation, Fehlerüberwachung, Ressourcenlimits, sichere Dateiübertragung, Konfigurationsversionierung, Audit-Protokolle und ein Rollback-Plan erforderlich.
 
-## Relevante Suchbegriffe
+## Praktische Workflows und Integrationen
 
 Passende Begriffe sind KI-Agenten, KI-Bots, Datenverarbeitungsautomatisierung, API-Integration, OCR, Computer Vision, sichere Workflows, Datenschutz, Qualitätskontrolle, Dokumentprozesse, multimodale Pipelines und KI-Implementierung. Sie beschreiben mögliche Kontexte und sind keine Garantie für Ergebnis, rechtliche Eignung oder eine fertige Dienstleistung.
 

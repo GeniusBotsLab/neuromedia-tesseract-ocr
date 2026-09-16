@@ -1,39 +1,31 @@
-# Neuromedia OCR — браузерное распознавание текста — English
+# Neuromedia OCR — English
 
-[Русский](README.ru.md) | [English](README.en.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+[Русский](README.ru.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [עברית](README.he.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [العربية](README.ar.md) · [Українська](README.uk.md) · [Română](README.ro.md)
 
-## Purpose and practical use
+## About the solution
 
-Neuromedia OCR — браузерное распознавание текста is an independent Neuromedia adaptation for text recognition from images and scans in JavaScript environments. It is intended for engineering teams, integrators, product owners, and automation practitioners who need reproducible processing, explicit operational boundaries, and a component that can be integrated into an authorised workflow. It is not a magic button and it does not promise error-free output. Results depend on source quality, configuration, compute environment, and human review wherever an error could affect people, documents, publications, or decisions.
+This is an independent Neuromedia adaptation for practical workflows where reproducibility, clear integration, and reviewable output matter. It can place specialised processing inside an authorised workflow: from file intake and input validation through technical output, logging, and review. It does not replace a team’s responsibility or promise error-free results. Quality depends on source material, configuration, runtime environment, and acceptance criteria.
 
-In an AI bot or AI agent workflow, this component can be one specialised, controlled step: an agent validates an input, launches processing, records the technical result, and routes it either to an operator or to the next permitted module. This pattern can support document operations, internal media pipelines, content preparation, cataloguing, analysis, and API integration services. Orchestration does not remove the need for access control, logging, content rights, or human approval of consequential actions.
+## Appropriate use
 
-## Who it is for
+The project is intended for developers, integrators, product teams, internal operations, and automation studios. Use it only with your own material or data for which you have a lawful basis and the necessary rights. Before production use, define a process owner, access roles, file location and retention, permitted formats, deletion rules for intermediate data, and cases that require human review.
 
-The project is for teams processing their own data or material for which they have a lawful basis and the necessary rights. Before deployment, define a process owner, storage rules, retention period for intermediate files, access roles, and acceptance criteria. When a use case involves personal data, faces, document text, or other sensitive information, evaluate applicable law, consent, contracts, and internal policy separately.
+## Integration into AI automation
 
-## Implementation and quality control
+In AI automation, the component can be one controlled step: an AI agent or service receives a task, checks the type and parameters of the input, performs processing, records structured output, and routes it to a person or the next authorised module. This approach can support document operations, media pipelines, cataloguing, internal analysis, and API integrations. Orchestration does not remove the need for access control, resource limits, audit logs, and human approval of consequential decisions.
 
-Start with a small, representative evaluation set. Record parameters, test quality against the actual target task, and decide in advance which cases require manual review. Do not claim accuracy, supported formats, speed, compatibility, or compliance beyond what your current test and upstream documentation verify. Production workflows commonly need isolation, error monitoring, resource limits, secure file transfer, configuration versioning, operation audit trails, and a rollback plan.
+## Quality assurance and safe deployment
 
-## Relevant discovery terms
+Start with a small representative set of real materials. Record parameters, measure quality against the actual target task, and decide in advance which cases must go to manual review. Do not claim accuracy, speed, compatibility, compliance, or format support beyond what tests and documentation verify. Production use commonly needs isolation, error monitoring, limits, secure transfer, configuration versioning, auditability, a contingency plan, and rollback procedures.
 
-Accurate search terms for this project include AI agents, AI bots, data-processing automation, API integration, OCR, computer vision, secure workflows, privacy, quality control, document operations, multimodal pipelines, and artificial-intelligence implementation. These terms describe possible contexts only; they are not a guarantee of outcomes, legal fitness, or a packaged service.
+## Collaboration, adaptation, and integration
 
-## Licence and provenance
+Neuromedia is open to collaboration on authorised automation, interface adaptation, and implementation in existing processes. We can assess inputs, plan a safe pilot, configure documented API integration, quality criteria, and operational documentation. Contact us on [Telegram](https://t.me/TheBotsLab) or at `BotsLab@proton.me`.
 
-Based on [Tesseract.js](https://github.com/naptha/tesseract.js) by [Project Naptha](https://github.com/naptha), distributed under Apache License 2.0. This is an independent Neuromedia modification; Project Naptha is not affiliated with or endorsing it.
+## Author and licence acknowledgement
 
+Based on the upstream Tesseract.js by Project Naptha, distributed under the Apache License 2.0. The Neuromedia edition is an independent modification; upstream authors are not affiliated with or endorsing it.
 
-## Collaboration and contacts
+## Project scope
 
-Neuromedia is open to collaboration on authorised automation scenarios, interface adaptation, implementation in existing processes, and documented API integrations. We can help assess inputs, build a safe pilot, configure quality control, and prepare usable operational documentation. Contact us on [Telegram](https://t.me/TheBotsLab) or at `BotsLab@proton.me`.
-
-
-## Author acknowledgement
-
-Based on [Tesseract.js](https://github.com/naptha/tesseract.js) by [Project Naptha](https://github.com/naptha), distributed under Apache License 2.0. This is an independent Neuromedia modification; Project Naptha is not affiliated with or endorsing it.
-
-## Tags
-
-`AI agents` · `AI bots` · `automation` · `API integration` · `Neuromedia`
+Neuromedia OCR is documented as a Neuromedia product adaptation. AI agents, automation, OCR, computer vision, data processing, and API integration are mentioned only where they describe an actual possible workflow; they are not promises of a particular result or a claim of endorsement by another product.
