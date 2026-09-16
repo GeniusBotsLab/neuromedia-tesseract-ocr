@@ -1,8 +1,6 @@
-# Neuromedia OCR — браузерное распознавание текста
+# Neuromedia OCR — браузерное распознавание текста — Русский
 
-**Независимая адаптация Neuromedia.** Распознавания текста на изображениях и сканах в javascript-среде.
-
-[Русский](docs/README.ru.md) | [English](docs/README.en.md) | [Español](docs/README.es.md) | [Deutsch](docs/README.de.md) | [Français](docs/README.fr.md)
+[Русский](README.ru.md) | [English](README.en.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
 
 ## Назначение и практическая ценность
 
@@ -32,10 +30,10 @@ Neuromedia OCR — браузерное распознавание текста 
 Neuromedia открыта к сотрудничеству по разрешённым сценариям автоматизации, адаптации пользовательского интерфейса, внедрению в существующие процессы и интеграции через документированные API. Мы помогаем оценить входные данные, собрать безопасный пилот, настроить контроль качества и подготовить понятную эксплуатационную документацию. Для обсуждения: [Telegram](https://t.me/TheBotsLab) или `BotsLab@proton.me`.
 
 
-## Быстрый старт
+## Author acknowledgement
 
-Технические команды, API и исходная документация сохранены из upstream-проекта. Перед использованием ознакомьтесь с его командами установки, требованиями среды и ограничениями. Не передавайте в публичные сервисы файлы, для обработки которых у вас нет полномочий.
+Основано на [Tesseract.js](https://github.com/naptha/tesseract.js) от [Project Naptha](https://github.com/naptha) и распространяется по Apache License 2.0. Эта версия является независимой модификацией Neuromedia; Project Naptha не связан с ней и не одобряет её.
 
-## Теги
+## Tags
 
-`AI-агенты` · `AI-боты` · `автоматизация` · `интеграция API` · `Neuromedia`
+`AI agents` · `AI bots` · `automation` · `API integration` · `Neuromedia`
